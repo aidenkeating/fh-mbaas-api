@@ -3,9 +3,9 @@
   "version": "6.1.3",
   "dependencies": {
     "fh-component-metrics": {
-      "version": "2.3.0",
-      "from": "aidenkeating/fh-component-metrics#add_configurable_send_queue_concurrency",
-      "resolved": "git://github.com/aidenkeating/fh-component-metrics.git#2208a0d60374d50bd12f6850a3b81e84a194490b",
+      "version": "2.4.0",
+      "from": "fh-component-metrics@2.4.0",
+      "resolved": "https://registry.npmjs.org/fh-component-metrics/-/fh-component-metrics-2.4.0.tgz",
       "dependencies": {
         "async": {
           "version": "2.0.1",
